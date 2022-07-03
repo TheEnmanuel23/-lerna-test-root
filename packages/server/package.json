@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.18.1"
   },
-  "gitHead": "e89974f31506616afec12e2b4c8a1e00c09e28e5",
+  "gitHead": "3446e1de2caae8d705601082055ac4ed2824cb3f",
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
     "access": "public"

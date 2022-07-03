@@ -10,7 +10,7 @@
   "scripts": {
     "start": "lerna run start --scope=@lerna-test/client",
     "bootstrap": "lerna bootstrap",
-    "release": "lerna publish --create-release github"
+    "release": "lerna publish"
   },
   "devDependencies": {
     "lerna": "^5.1.6"

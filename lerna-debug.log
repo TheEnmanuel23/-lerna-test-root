@@ -1,0 +1,4 @@
+11 error Error: A GH_TOKEN environment variable is required.
+11 error     at createGitHubClient (/Users/enmanueljarquin/development/lerna-test/node_modules/@lerna/github-client/lib/github-client.js:17:11)
+11 error     at createReleaseClient (/Users/enmanueljarquin/development/lerna-test/node_modules/@lerna/version/lib/create-release.js:20:14)
+11 error     at VersionCommand.configureProperties (/Users/enmanueljarquin/development/lerna-test/node_modules/@lerna/version/index.js:80:58)

@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-test/components",
+  "name": "componentstestlerna",
   "version": "1.7.0",
   "main": "/build/static/js/main.f0904aa4.js",
   "private": false,
@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "844c8b9c4bc6524126d70a6441b156c0040bb858"
+  "gitHead": "a6d39b65a8354322039b5a4a4c32e6623633f413"
 }

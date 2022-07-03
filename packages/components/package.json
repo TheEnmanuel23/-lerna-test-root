@@ -1,6 +1,6 @@
 {
   "name": "@lerna-test/components",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "/build/static/js/main.f0904aa4.js",
   "repository": {
     "url": "git@github.com:TheEnmanuel23/-lerna-test-root.git"

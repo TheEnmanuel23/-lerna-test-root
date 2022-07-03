@@ -2,6 +2,9 @@
   "name": "@lerna-test/components",
   "version": "1.1.0",
   "main": "/build/static/js/main.f0904aa4.js",
+  "repository": {
+    "url": "git@github.com:TheEnmanuel23/-lerna-test-root.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -35,5 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "5c183aed117d68c039d825055d18d0795ae44030"
+  "gitHead": "dc74f961ac97b80f7c381b10293fddd8b7935f10"
 }

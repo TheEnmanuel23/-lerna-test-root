@@ -2,6 +2,7 @@
   "name": "@lerna-test/components",
   "version": "1.5.0",
   "main": "/build/static/js/main.f0904aa4.js",
+  "private": false,
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
     "access": "public"

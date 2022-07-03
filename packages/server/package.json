@@ -2,6 +2,7 @@
   "name": "@lerna-test/server",
   "version": "1.5.0",
   "main": "index.js",
+  "private": false,
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.1"

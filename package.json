@@ -11,8 +11,9 @@
     "start": "lerna run start --scope=@lerna-test/client",
     "bootstrap": "lerna bootstrap",
     "releaseO": "lerna publish --create-release github",
-    "releaseWorking": "lerna publish --no-private --conventional-commits --create-release github --yes",
-    "release": "lerna publish from-package -y --no-verify-access"
+    "releaseWorkingBoth": "lerna publish --no-private --conventional-commits --create-release github --yes",
+    "releaseWorksOnlyWithNpm": "lerna publish from-package -y --no-verify-access",
+    "release": "lerna publish from-package -y --no-verify-access --create-release github "
   },
   "devDependencies": {
     "lerna": "^5.1.6"

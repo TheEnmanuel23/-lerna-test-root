@@ -1,0 +1,8 @@
+{
+  "packages": ["packages/*"],
+  "version": "0.0.0",
+  "useWorkspaces": true,
+  "lerna": "independent",
+  "npmClient": "yarn",
+  "author": "Enmanuel J enmisac@gmail.com"
+}

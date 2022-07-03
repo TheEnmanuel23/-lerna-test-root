@@ -1,7 +1,6 @@
 {
   "name": "@lerna-test/components",
   "version": "1.0.0",
-  "private": false,
   "main": "/build/static/js/main.f0904aa4.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -36,5 +35,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "9ae36fd5fa05b286bb3c65ccbb06f19b528281c9"
+  "gitHead": "5c183aed117d68c039d825055d18d0795ae44030"
 }

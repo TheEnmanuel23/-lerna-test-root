@@ -2,10 +2,9 @@
   "name": "@lerna-test/server",
   "version": "1.0.0",
   "main": "index.js",
-  "private": false,
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.1"
   },
-  "gitHead": "9ae36fd5fa05b286bb3c65ccbb06f19b528281c9"
+  "gitHead": "5c183aed117d68c039d825055d18d0795ae44030"
 }

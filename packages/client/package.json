@@ -1,6 +1,6 @@
 {
   "name": "@lerna-test/client",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
     "access": "public"
@@ -10,7 +10,7 @@
     "url": "git@github.com:TheEnmanuel23/-lerna-test-root.git"
   },
   "dependencies": {
-    "@lerna-test/components": "^1.6.0",
+    "@lerna-test/components": "^1.7.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",

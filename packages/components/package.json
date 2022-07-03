@@ -1,6 +1,6 @@
 {
   "name": "@lerna-test/components",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "main": "/build/static/js/main.f0904aa4.js",
   "private": false,
   "publishConfig": {

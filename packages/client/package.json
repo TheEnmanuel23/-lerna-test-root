@@ -5,6 +5,7 @@
     "registry": "https://registry.npmjs.org",
     "access": "public"
   },
+  "private": false,
   "repository": {
     "url": "git@github.com:TheEnmanuel23/-lerna-test-root.git"
   },
@@ -42,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "3446e1de2caae8d705601082055ac4ed2824cb3f"
+  "gitHead": "104a52515a9d98236fe8ec362c2c09c7de4424ef"
 }

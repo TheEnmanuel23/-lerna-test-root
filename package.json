@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-test/root",
+  "name": "lerna-test",
   "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",

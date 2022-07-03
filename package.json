@@ -10,6 +10,7 @@
   "scripts": {
     "start": "lerna run start --scope=@lerna-test/client",
     "bootstrap": "lerna bootstrap",
+    "publish-ci-composer": "turbo run libbuild && turbo run type:emit && lerna publish from-package -y --no-verify-access",
     "releaseO": "lerna publish --create-release github",
     "releaseWorkingBoth": "lerna publish --no-private --conventional-commits --create-release github --yes",
     "releaseWorksOnlyWithNpm": "lerna publish from-package -y --no-verify-access",
